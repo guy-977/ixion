@@ -7,6 +7,9 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: 'Ixion',
   description: 'Pentesting (penetration testing) AI assistant app',
+  icons: {
+    icon: '/ixion-logo.png'
+  }
 }
 
 export default function RootLayout({
