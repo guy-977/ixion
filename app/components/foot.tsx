@@ -29,6 +29,13 @@ export default function foot() {
       >
         Ahmed Barjoud
       </a>
+      &nbsp;
+      <a
+        href="#"
+        className="from-[#33cc33] to-[#006622] bg-gradient-to-r bg-clip-text text-transparent"
+      >
+        Abdullah Alhusaini
+      </a>
     </div>
   );
 }
