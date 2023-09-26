@@ -52,7 +52,7 @@ export default function Home() {
           <span>Ixion</span>
         </div>
         <p className="text-2xl">
-          Ixion is an AI tool to help you be professional in hacking
+          Empowering Cybersecurity Excellence
         </p>
       </motion.div>
       <motion.div
@@ -66,8 +66,7 @@ export default function Home() {
           About us
         </h2>
         <p className="text-2xl">
-          We are an innovative team that specializes in creating cutting-edge
-          artificial intelligence solutions.
+          At Ixion, we are a pioneering team dedicated to crafting state-of-the-art artificial intelligence solutions.
         </p>
       </motion.div>
       <motion.div
@@ -80,11 +79,7 @@ export default function Home() {
           Our vison
         </h2>
         <p className="text-2xl">
-          Our vision is to help cybersecurity professionals to focus on their
-          core tasks by automating the boring parts of their work with Ixion. We
-          want to provide a platform that helps security professionals to
-          discover, exploit, and eliminate vulnerabilities in the systems they
-          manage more efficiently and accurately.
+          Our vision is to empower cybersecurity professionals by streamlining their workflow through Ixion. We aim to offer a comprehensive platform that automates mundane tasks, enabling security experts to identify, exploit, and mitigate vulnerabilities in managed systems with greater efficiency and precision.
         </p>
       </motion.div>
       <motion.div
